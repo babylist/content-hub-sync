@@ -1,0 +1,5 @@
+.idea
+config.json
+node_modules
+*.log
+contentful-space-sync-token-*

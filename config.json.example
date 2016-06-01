@@ -1,0 +1,6 @@
+{
+  "sourceSpace": "source-space-id",
+  "destinationSpace": "destination-space-id",
+  "sourceDeliveryToken": "source-content-delivery-api-token",
+  "managementToken": "user-based-content-management-api-oauth-token"
+}
